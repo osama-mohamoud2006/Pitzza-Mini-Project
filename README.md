@@ -9,12 +9,20 @@ A C# Windows Forms desktop application for building and ordering a pizza, implem
 
 ## Table of Contents
 
-1. [Project Goal](#project-goal)  
-2. [Repository Layout](#repository-layout)  
-3. [Technology Stack](#technology-stack)  
-4. [Feature Set](#feature-set)  
-5. [How the App Works](#how-the-app-works)  
-
+1. [Project Goal](#project-goal)
+2. [Repository Layout](#repository-layout)
+3. [Technology Stack](#technology-stack)
+4. [Feature Set](#feature-set)
+5. [How the App Works](#how-the-app-works)
+6. [Root Version (Original)](#root-version-original)
+7. [Refactored Version](#refactored-version)
+8. [Detailed Difference: Root vs Refactored](#detailed-difference-root-vs-refactored)
+   1. [State management strategy](#1-state-management-strategy)
+   2. [Pricing source](#2-pricing-source)
+   3. [Method decomposition](#3-method-decomposition)
+   4. [UX defaults](#4-ux-defaults)
+   5. [Summary rendering](#5-summary-rendering)
+   6. [Complexity and extensibility](#6-complexity-and-extensibility)
 
 ---
 
