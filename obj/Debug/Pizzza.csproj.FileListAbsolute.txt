@@ -1,0 +1,10 @@
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Pizzza\bin\Debug\Pizzza.exe.config
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Pizzza\bin\Debug\Pizzza.exe
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Pizzza\bin\Debug\Pizzza.pdb
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Pizzza\obj\Debug\Pizzza.csproj.AssemblyReference.cache
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Pizzza\obj\Debug\Pizzza.frmMain.resources
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Pizzza\obj\Debug\Pizzza.Properties.Resources.resources
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Pizzza\obj\Debug\Pizzza.csproj.GenerateResource.cache
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Pizzza\obj\Debug\Pizzza.csproj.CoreCompileInputs.cache
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Pizzza\obj\Debug\Pizzza.exe
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Pizzza\obj\Debug\Pizzza.pdb

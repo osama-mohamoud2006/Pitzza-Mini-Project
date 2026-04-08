@@ -1,0 +1,10 @@
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Refactored Project\bin\Debug\Refactored Project.exe.config
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Refactored Project\bin\Debug\Refactored Project.exe
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Refactored Project\bin\Debug\Refactored Project.pdb
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Refactored Project\obj\Debug\Refactored Project.csproj.AssemblyReference.cache
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Refactored Project\obj\Debug\Refactored_Project.Form1.resources
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Refactored Project\obj\Debug\Refactored_Project.Properties.Resources.resources
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Refactored Project\obj\Debug\Refactored Project.csproj.GenerateResource.cache
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Refactored Project\obj\Debug\Refactored Project.csproj.CoreCompileInputs.cache
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Refactored Project\obj\Debug\Refactored Project.exe
+E:\projects\C#\14 - C# - Level 1\Windows Forms\Refactored Project\obj\Debug\Refactored Project.pdb

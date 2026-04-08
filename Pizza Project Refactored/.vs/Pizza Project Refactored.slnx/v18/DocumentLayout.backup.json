@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Pizza Project Refactored\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D20C9C-257A-4DA5-93BA-5690AA6478F1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\projects\\c#\\14 - c# - level 1\\windows forms\\pizzza\\pizza project refactored\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88D20C9C-257A-4DA5-93BA-5690AA6478F1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D20C9C-257A-4DA5-93BA-5690AA6478F1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\projects\\c#\\14 - c# - level 1\\windows forms\\pizzza\\pizza project refactored\\windowsformsapp1\\refactored project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{88D20C9C-257A-4DA5-93BA-5690AA6478F1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\refactored project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Pizza Project Refactored\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Pizza Project Refactored\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:03:36.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Refactored Project.csproj",
+              "DocumentMoniker": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Pizza Project Refactored\\WindowsFormsApp1\\Refactored Project.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Refactored Project.csproj",
+              "ToolTip": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Pizza Project Refactored\\WindowsFormsApp1\\Refactored Project.csproj",
+              "RelativeToolTip": "WindowsFormsApp1\\Refactored Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T17:03:28.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

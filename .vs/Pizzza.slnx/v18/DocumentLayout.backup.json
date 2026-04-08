@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8B9CD-DA7C-4E2B-B488-91F3B21F28E8}|Pizzza.csproj|E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8B9CD-DA7C-4E2B-B488-91F3B21F28E8}|Pizzza.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wwwhd\\AppData\\Local\\Temp\\f031b206-9b22-42dc-8329-08af18fa906b.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8B9CD-DA7C-4E2B-B488-91F3B21F28E8}|Pizzza.csproj|E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C8B9CD-DA7C-4E2B-B488-91F3B21F28E8}|Pizzza.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8B9CD-DA7C-4E2B-B488-91F3B21F28E8}|Pizzza.csproj|E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8B9CD-DA7C-4E2B-B488-91F3B21F28E8}|Pizzza.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "f031b206-9b22-42dc-8329-08af18fa906b.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\wwwhd\\AppData\\Local\\Temp\\f031b206-9b22-42dc-8329-08af18fa906b.md",
+              "ToolTip": "C:\\Users\\wwwhd\\AppData\\Local\\Temp\\f031b206-9b22-42dc-8329-08af18fa906b.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-04T20:49:19.333Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAIwHUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T00:55:15.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwHAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:16:30.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\Pizzza\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:50:27.116Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
